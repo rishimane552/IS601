@@ -9,7 +9,9 @@ body {
 .makeBigger {
     font-size: 120%;
 }
-
+.center{
+    text-align: center;
+}
 .CenterGothic{
     font-family: "Century Gothic", CenturyGothic, AppleGothic, sans-serif;
 }
